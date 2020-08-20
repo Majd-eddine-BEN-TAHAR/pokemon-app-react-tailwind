@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## For live preview visit : [majd.react-chartjs](http://Majd-eddine-BEN-TAHAR.github.io/pokemon-app-react-tailwind/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [tailwindCss](https://tailwindcss.com/).
+
+for live preview
 
 ## Available Scripts
 
