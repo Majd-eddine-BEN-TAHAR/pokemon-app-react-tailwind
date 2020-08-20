@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap");
+@font-face {
+  font-family: "Pokemon Solid";
+  src: url("./../fonts/Pokemon\ Solid.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.majd:hover * {
+  border: 1px solid;
+}
+
+.loader {
+  border-color: #ccdae4;
+  border-top-color: #3498db;
+  -webkit-animation: spinner 800ms linear infinite;
+  animation: spinner 800ms linear infinite;
+}
+
+@-webkit-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.top-center {
+  top: 35%;
+  transform: translateY(-50%);
+}
+
+.left-center {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.pagination {
+  @apply flex justify-center items-center font-bold p-2 m-1 w-10 h-10 rounded  cursor-pointer;
+}
+
+.Active {
+  @apply pagination bg-yellow-400 text-black;
+}
