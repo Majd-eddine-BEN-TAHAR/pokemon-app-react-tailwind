@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pokemon-app-react-tailwind/static/css/main.2f169b41.chunk.css",
+    "main.js": "/pokemon-app-react-tailwind/static/js/main.a132fc23.chunk.js",
+    "main.js.map": "/pokemon-app-react-tailwind/static/js/main.a132fc23.chunk.js.map",
+    "runtime-main.js": "/pokemon-app-react-tailwind/static/js/runtime-main.4bc5f420.js",
+    "runtime-main.js.map": "/pokemon-app-react-tailwind/static/js/runtime-main.4bc5f420.js.map",
+    "static/js/2.03094d5f.chunk.js": "/pokemon-app-react-tailwind/static/js/2.03094d5f.chunk.js",
+    "static/js/2.03094d5f.chunk.js.map": "/pokemon-app-react-tailwind/static/js/2.03094d5f.chunk.js.map",
+    "index.html": "/pokemon-app-react-tailwind/index.html",
+    "precache-manifest.99e7b0ec63d44f008572500180ff80fc.js": "/pokemon-app-react-tailwind/precache-manifest.99e7b0ec63d44f008572500180ff80fc.js",
+    "service-worker.js": "/pokemon-app-react-tailwind/service-worker.js",
+    "static/css/main.2f169b41.chunk.css.map": "/pokemon-app-react-tailwind/static/css/main.2f169b41.chunk.css.map",
+    "static/js/2.03094d5f.chunk.js.LICENSE.txt": "/pokemon-app-react-tailwind/static/js/2.03094d5f.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/pokemon-app-react-tailwind/static/media/Pokemon Solid.36d26dbc.ttf",
+    "static/media/back.svg": "/pokemon-app-react-tailwind/static/media/back.6477dbbb.svg",
+    "static/media/background.jpg": "/pokemon-app-react-tailwind/static/media/background.619e12c7.jpg",
+    "static/media/next.svg": "/pokemon-app-react-tailwind/static/media/next.42b98338.svg",
+    "static/media/pokemon.svg": "/pokemon-app-react-tailwind/static/media/pokemon.b18f6f3b.svg",
+    "static/media/previous.svg": "/pokemon-app-react-tailwind/static/media/previous.45a0ba99.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bc5f420.js",
+    "static/js/2.03094d5f.chunk.js",
+    "static/css/main.2f169b41.chunk.css",
+    "static/js/main.a132fc23.chunk.js"
+  ]
+}
