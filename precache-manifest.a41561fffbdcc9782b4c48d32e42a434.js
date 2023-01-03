@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bc48482037eaa2a9457c52a59e9bb03",
+    "revision": "e807f616392e4394c0885dc821e18589",
     "url": "/pokemon-app-react-tailwind/index.html"
   },
   {
-    "revision": "6a4783f721ffb976cabe",
+    "revision": "52a26e9a7f0371e074bb",
     "url": "/pokemon-app-react-tailwind/static/css/main.2f169b41.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-app-react-tailwind/static/js/2.fdd0f6f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a4783f721ffb976cabe",
-    "url": "/pokemon-app-react-tailwind/static/js/main.5cc2645f.chunk.js"
+    "revision": "52a26e9a7f0371e074bb",
+    "url": "/pokemon-app-react-tailwind/static/js/main.9e6259a7.chunk.js"
   },
   {
     "revision": "eba9ef54b044c42b9505",
