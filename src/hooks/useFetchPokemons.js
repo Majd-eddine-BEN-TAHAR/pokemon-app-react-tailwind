@@ -46,9 +46,7 @@ const useFetchPokemons = (offset) => {
 
   useEffect(() => {
     dispatch({ type: ACTIONS.MAKE_REQUEST });
-    fetch(
-      `https://majd-cors-anywhere.herokuapp.com/https://pokeapi.co/api/v2/pokemon?offset=${offset}&limit=20`
-    )
+    fetch(`https://pokeapi.co/api/v2/pokemon?offset=${offset}&limit=20`)
       .then((res) => {
         if (!res.ok) {
           throw new Error("1");
